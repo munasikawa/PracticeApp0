@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticeApp0</string>
+    <string name="drinkTxtView">Drink!</string>
+    <string name="ahoyTxtView">Ahoy!</string>
+    <string name="dareTxtView">Dare</string>
+    <string name="orTxtView">or</string>
+    <string name="enterNameEditTxt">Enter Your Name...</string>
+</resources>
